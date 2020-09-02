@@ -1,10 +1,13 @@
 ## नमस्ते (Namaste),
 ![](https://visitor-badge.laobi.icu/badge?page_id=pygaur.pygaur)
-<h2>Hi, I'm Prashant Gaur</h2>
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
-<p><em>Software Engineer at <a href="https://www.cisco.com/">Cisco</a> . </em>
-<p><em>Bengaluru,India. </em>
-<br>
+
+#### I'm a Python Developer working in Bengaluru, India.
+
+- 🏢 I'm currently working at **Cisco**
+- ⚙️ I use daily: `.py`, `.js`, `.html`.
+- 🌍 I'm mostly working in **python**
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **python**, **django**, **REST**, **Google Drive API**, **Django Oscar**.
 
 ### Connect with me:
 
@@ -41,3 +44,5 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
 
 <br />
+
+
