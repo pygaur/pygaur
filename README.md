@@ -42,7 +42,7 @@
 <br />
 <br />
 
-<img align="left" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jatin2003&show_icons=true&hide_border=true" />
+<img align="left" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pygaur&show_icons=true&hide_border=true" />
 
 
 ### Blog posts
