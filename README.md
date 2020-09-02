@@ -5,9 +5,6 @@
 <h2>Hi, I'm Prashant Gaur</h2>
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 <p><em>Software Engineer at <a href="https://www.cisco.com/">Cisco</a> . </em>
-
-
- 
 <br>
 
 ### Connect with me:
@@ -19,7 +16,6 @@
 <br />
 
 ### Languages and Tools:
-
 
 [<img align="left" alt="Python3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][linkedin]
 
@@ -37,10 +33,11 @@
 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
 
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
+<br />
 
-###  
-![Prashant Gaur's github stats](https://github-readme-stats.vercel.app/api?username=pygaur&hide=["issues"]&show_icons=true)
+###
+
+- ![Prashant Gaur's github stats](https://github-readme-stats.vercel.app/api?username=pygaur&hide=["issues"]&show_icons=true)
 
 
 [twitter]: https://twitter.com/pygaur
