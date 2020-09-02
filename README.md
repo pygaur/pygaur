@@ -44,6 +44,8 @@
 
 <img align="left" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pygaur&show_icons=true&hide_border=true" />
 
+<br />
+<br />
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
