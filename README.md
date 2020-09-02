@@ -1,13 +1,10 @@
-## नमस्ते (Namaste), I am [Prashant Gaur]
+## नमस्ते (Namaste)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=pygaur.pygaur)
 
-## Python Developer 
-
-### About me:
-- 🔭 Currently working with Cisco.
-- 💎 Cloud Security Engineer
-- 💬 Ask me about Python, Django, Web Development
+<h2>Hi, I'm Prashant Gaur</h2>
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+<p><em>Software Engineer at <a href="https://www.cisco.com/">Cisco</a> . </em>
 
 
  
@@ -44,6 +41,9 @@
 
 <br />
 <br />
+
+<img align="left" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jatin2003&show_icons=true&hide_border=true" />
+
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
