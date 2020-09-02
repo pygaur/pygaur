@@ -1,8 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to meet you.</h1>
+## नमस्ते (Namaste), I am [Prashant Gaur]
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=pygaur.pygaur)
 
-### I am Prashant.
 ## Python Developer 
 
 ### About me:
