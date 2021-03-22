@@ -1,4 +1,3 @@
-## नमस्ते (Namaste),
 ![](https://visitor-badge.laobi.icu/badge?page_id=pygaur.pygaur)
 
 #### I'm a Python Developer working in Bengaluru, India.
