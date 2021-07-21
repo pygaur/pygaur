@@ -1,26 +1,13 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=pygaur.pygaur)
 
-#### I'm a Python Developer working in Bengaluru, India.
-
-- 🏢 I'm currently working at **Cisco**
-- ⚙️ I use daily: `.py`, `.js`, `.html`.
-- 🌍 I'm mostly working in **python**
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **python**, **django**, **REST**, **Google Drive API**, **Django Oscar**.
-
 ### Connect with me:
 
 [<img align="left" alt="Kamil's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
-[<img align="left" alt="Kamil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Kamil's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 <br />
 
-
-![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=pygaur&hide=["issues"]&show_icons=true)
-
-[twitter]: https://twitter.com/pygaur
 [linkedin]: https://www.linkedin.com/in/prashantgaur/
 [gmail]: mailto:91prashantgaur@gmail.com
 
